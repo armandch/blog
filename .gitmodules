@@ -1,3 +1,7 @@
 [submodule "themes/slick"]
 	path = themes/slick
 	url = git@github.com:spookey/slick.git
+[submodule "public"]
+	path = public
+	url = git@github.com:armandch/armandch.github.io.git
+	branch = master
